@@ -4,3 +4,10 @@
 *.sym
 *.vs
 .source.txt
+build/.ninja_deps
+build/.ninja_log
+build/build.ninja
+build/CadaverSpriteMultiplexer.info
+.vscode/launch.json
+.vscode/tasks.json
+project-config.json
